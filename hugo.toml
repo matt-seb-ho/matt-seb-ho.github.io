@@ -1,0 +1,17 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Matthew Ho'
+theme = 'papermod'
+
+[menus]
+  [[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+  [[menus.main]]
+    name = 'CV'
+    url = '/msho-2.pdf'
+    weight = 20
+
+[params]
+  customCSS = ["css/custom.css"]
