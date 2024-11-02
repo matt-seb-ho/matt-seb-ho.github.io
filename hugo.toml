@@ -1,4 +1,4 @@
-baseURL = 'https://matt-seb-ho.github.io/msho_website'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'Matthew Ho'
 theme = 'papermod'
