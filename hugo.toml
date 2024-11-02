@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://matt-seb-ho.github.io/msho_website/'
 languageCode = 'en-us'
 title = 'Matthew Ho'
 theme = 'papermod'
@@ -12,6 +12,3 @@ theme = 'papermod'
     name = 'CV'
     url = '/msho-2.pdf'
     weight = 20
-
-[params]
-  customCSS = ["css/custom.css"]

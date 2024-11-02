@@ -13,7 +13,7 @@ title = ''
 I'm a first year CS PhD student at University of California, San Diego where I'm advised by [Prof. Lianhui Qin](https://lianhui.ucsd.edu).
 I completed my undergraduate studies in Computer Science at University of California, Santa Barbara where I worked with [Prof. William Wang](https://www.cs.ucsb.edu/~william/) and the [UCSB NLP group](http://nlp.cs.ucsb.edu).
 {{< figure 
-    src="/images/pfp2023.jpg" 
+    src="images/pfp2023.jpg" 
     caption="me lol" 
     height=150
     align=center
