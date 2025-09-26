@@ -27,6 +27,9 @@ I am particularly interested in self-improving techniques and meta-learning meth
 ---
 
 ### Publications
+**Ho** et al. *ArcMemo: Abstract Reasoning Composition with Lifelong LLM Memory.* Preprint.
+- [paper](https://arxiv.org/abs/2509.04439) | [code](https://github.com/matt-seb-ho/arc_memo)
+
 **Ho** et al. *Proof Flow: Preliminary Study on Generative Flow Network Language Model Tuning for Formal Reasoning.* NeurIPS 2024 System 2 Reasoning at Scale Workshop.
 - [paper](https://arxiv.org/abs/2410.13224) | [code](https://github.com/matt-seb-ho/gfn_ntp)
 
