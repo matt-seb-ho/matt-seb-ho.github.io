@@ -10,7 +10,7 @@ title = ''
 \[[LinkedIn](https://www.linkedin.com/in/matthew-s-ho/)]
 \[[Google Scholar](https://scholar.google.com/citations?user=WZtuF08AAAAJ)\]
 
-I am a first year CS PhD student at University of California, San Diego where I am advised by [Prof. Lianhui Qin](https://lianhui.ucsd.edu).
+I am a second year CS PhD student at University of California, San Diego where I am advised by [Prof. Lianhui Qin](https://lianhui.ucsd.edu).
 I completed my undergraduate studies in Computer Science at University of California, Santa Barbara where I worked with [Prof. William Wang](https://www.cs.ucsb.edu/~william/) and the [UCSB NLP group](http://nlp.cs.ucsb.edu).
 {{< figure 
     src="images/pfp2023.jpg" 

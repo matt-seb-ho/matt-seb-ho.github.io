@@ -10,5 +10,5 @@ theme = 'papermod'
     weight = 10
   [[menus.main]]
     name = 'CV'
-    url = '/msho-2.pdf'
+    url = '/msho_resume.pdf'
     weight = 20
