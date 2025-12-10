@@ -28,12 +28,19 @@ I am particularly interested in self-improving techniques and meta-learning meth
 
 ### Publications
 **Ho** et al. *ArcMemo: Abstract Reasoning Composition with Lifelong LLM Memory.* Preprint.
-- [paper](https://arxiv.org/abs/2509.04439) | [code](https://github.com/matt-seb-ho/arc_memo)
+<span style="color: #eb6f92;">ARC Prize 2025 Paper Track Runner Up</span>
+- [paper](https://arxiv.org/abs/2509.04439) | 
+[code](https://github.com/matt-seb-ho/arc_memo) | 
+[tweet](https://x.com/Lianhuiq/status/1975604634858496491) |
+[competition](https://arcprize.org/competitions/2025/)
 
 **Ho** et al. *Proof Flow: Preliminary Study on Generative Flow Network Language Model Tuning for Formal Reasoning.* NeurIPS 2024 System 2 Reasoning at Scale Workshop.
 - [paper](https://arxiv.org/abs/2410.13224) | [code](https://github.com/matt-seb-ho/gfn_ntp)
 
+**Ho** et al. *WikiWhy: Answering and Explaining Cause-and-Effect Questions.* ICLR 2023, 
+<span style="color: #eb6f92;">Oral (Top 1.2% of 4019 submissions)</span>
+- [paper](https://arxiv.org/abs/2210.12152) | 
+[code](https://github.com/matt-seb-ho/WikiWhy) |
+[tweet](https://x.com/matt_seb_ho/status/1616614516586086400)
 
-**Ho** et al. *WikiWhy: Answering and Explaining Cause-and-Effect Questions.* ICLR 2023, Oral (Top 1.2%) 
-- [paper](https://arxiv.org/abs/2210.12152) | [code](https://github.com/matt-seb-ho/WikiWhy)
 

@@ -10,5 +10,12 @@ theme = 'papermod'
     weight = 10
   [[menus.main]]
     name = 'CV'
-    url = '/msho_resume.pdf'
+    # url = '/msho_resume.pdf'
+    url = '/msho.pdf'
     weight = 20
+
+# Enable rendering of raw HTML in Markdown content
+# note: for coloring text
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
