@@ -29,7 +29,7 @@ I am particularly interested in self-improving techniques and meta-learning meth
 ### Publications
 **Ho** et al. *ArcMemo: Abstract Reasoning Composition with Lifelong LLM Memory.* Preprint.
 <span style="color: #eb6f92;">ARC Prize 2025 Paper Track Runner Up</span>
-- [paper](https://arxiv.org/abs/2509.04439) | 
+- [paper](https://github.com/matt-seb-ho/arc_memo/blob/main/arcmemo_preprint.pdf) | 
 [code](https://github.com/matt-seb-ho/arc_memo) | 
 [tweet](https://x.com/Lianhuiq/status/1975604634858496491) |
 [competition](https://arcprize.org/competitions/2025/)
