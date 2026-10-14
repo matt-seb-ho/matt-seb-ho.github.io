@@ -27,6 +27,11 @@ I am particularly interested in self-improving techniques and meta-learning meth
 ---
 
 ### Publications
+*Coming Soon:* Agentic Context Curation | MSR Collaboration
+
+**Ho**, Liu, Chen, Wang, Qin. *Auto-Configuring Scientific Simulators with Lightweight Coding-Agent Adapters.* NeurIPS 2026.
+- [paper](https://arxiv.org/pdf/2606.09774)
+
 **Ho** et al. *ArcMemo: Abstract Reasoning Composition with Lifelong LLM Memory.* Preprint.
 <span style="color: #eb6f92;">ARC Prize 2025 Paper Track Runner Up</span>
 - [paper](https://github.com/matt-seb-ho/arc_memo/blob/main/arcmemo_preprint.pdf) | 
