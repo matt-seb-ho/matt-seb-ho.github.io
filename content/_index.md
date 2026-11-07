@@ -20,14 +20,16 @@ I completed my undergraduate studies in Computer Science at University of Califo
 >}}
 
 ### Research Interests
-My research interests broadly lie in LLM reasoning.
-I study methods for improving and evaluating LLMs' reasoning capabilities towards the ultimate goal of developing systems to assist human experts to solve frontier problems in math, science, and engineering.
-I am particularly interested in self-improving techniques and meta-learning methods that allow models to efficiently acquire new skills and learn useful abstractions on the fly.
+My research focuses on building AI systems that keep getting better on their own.
+I am particularly interested in self-improving agents: harness evolution, where agents refine their own scaffolds, tools, and context; recursive self-improvement; and continual learning methods that let models acquire new skills and reusable abstractions on the fly.
+I am also excited about applying these systems to autoresearch and AI for science, with the ultimate goal of building agents that work alongside human experts on frontier problems in math, science, and engineering.
 
 ---
 
 ### Publications
-*Coming Soon:* Agentic Context Curation | MSR Collaboration
+**Ho** et al. *Agentic Context Management for Multi-Turn Human-AI Conversations.* Preprint.
+- [paper](https://arxiv.org/abs/2611.00518) | code (coming soon)
+- Work done in collaboration with Microsoft Research.
 
 **Ho**, Liu, Chen, Wang, Qin. *Auto-Configuring Scientific Simulators with Lightweight Coding-Agent Adapters.* NeurIPS 2026.
 - [paper](https://arxiv.org/pdf/2606.09774)
